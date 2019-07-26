@@ -1,5 +1,5 @@
-# Inferential Statistics
-![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
+# Basic Statistics
+![GitHub Logo]https://www.seekho.ai/
 
 One of the foundational aspects of statistical analysis is inference, or the process of drawing conclusions about a larger population from a sample of data.For example, to show that one medical treatment is better than another, we can assume that the two treatments lead to equal survival rates only to then be disproved by the data. Additionally, we introduce the idea of a p-value, or the degree of disagreement between the data and the hypothesis. We also dive into confidence intervals, which measure the magnitude of the effect of interest (e.g. how much better one treatment is than another).
 
