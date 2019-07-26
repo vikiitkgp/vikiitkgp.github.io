@@ -3,25 +3,6 @@
 
 One of the foundational aspects of statistical analysis is inference, or the process of drawing conclusions about a larger population from a sample of data.For example, to show that one medical treatment is better than another, we can assume that the two treatments lead to equal survival rates only to then be disproved by the data. Additionally, we introduce the idea of a p-value, or the degree of disagreement between the data and the hypothesis. We also dive into confidence intervals, which measure the magnitude of the effect of interest (e.g. how much better one treatment is than another).
 
-## At a glance
-* In Class Instruction: 4 Hours
-  * In Class code along Dataset: House Pricing Dataset
-* Project Dataset:Iowa Housing Prices
-  * Estimated Time to complete Project Tasks: 1 Hour
-  * Total sub tasks within the Project: 4
-  * Complexity of sub tasks : Mid to High
-  * Points to be scored : 350
-* Skills Rehearsed
-  * Inferential Statistics Using Python libraries
-
-## In-Class Activities
-* Instructor led concept onboarding
-* Code Alongs
-* In Class Quiz Administration
-* Periodic Recap - Closer to the end of session
-* In Class Assignments - Motivation
-* Take Away Assignments
-
 ## Pre Reads
 * [Basics of Hypothesis Testing](https://www.youtube.com/watch?v=UApFKiK4Hi8)
 
