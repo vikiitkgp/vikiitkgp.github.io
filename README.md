@@ -1,2 +1,2 @@
 # vikiitkgp.github.io
-Personal Profile for Github Page
+Personal Profile showcasing Data Science experience
